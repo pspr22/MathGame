@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MathGame</string>
+
+    <string-array name="option">
+
+        <item> Addition</item>
+        <item> Subtration</item>
+        <item> Multiplication</item>
+        <item> Square</item>
+    </string-array>
+</resources>
